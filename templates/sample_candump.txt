@@ -1,0 +1,4 @@
+# Sample candump-style lines matching templates/minimal_example.dbc:
+# Arbitration ID is 291 decimal (= 0x123). Payload byte0 is AliveCounter (= 42).
+(0.000100) can0 123#2A01020304050607
+(0.000250) can0 123#2B01020304050607

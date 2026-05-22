@@ -1,0 +1,14 @@
+VERSION ""
+
+
+NS_ :
+	NS_DESC_
+
+BS_:
+
+BU_: DBG
+
+
+BO_ 291 ExampleMsg: 8 DBG
+ SG_ AliveCounter : 0|8@1+ (1,0) [0|255] "" DBG
+

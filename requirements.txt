@@ -1,0 +1,5 @@
+python-can>=4.4,<5
+cantools>=39.4
+pandas>=2.0,<3
+matplotlib>=3.7,<4
+flask>=3.0,<4

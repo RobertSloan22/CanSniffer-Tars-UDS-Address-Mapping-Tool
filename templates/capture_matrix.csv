@@ -1,0 +1,2 @@
+vehicle_id,vin_or_project,bus,function_name,precondition,action,repetitions,expected_bus_load,notes,log_filename,dbc_version
+example_fusion,REPLACE,HS-CAN,rear_demist_off_to_on,"IGN_ON_PARK_ALL_DOORS_CLOSED","Toggle rear defrost once",3,normal,"",20260521_REPLACE_bus12_rear_demist_run01.savvylog,v0_
